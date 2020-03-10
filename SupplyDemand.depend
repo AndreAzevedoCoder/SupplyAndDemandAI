@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1583806913 source:/home/pc/Documentos/SupplyDemand/SupplyDemand/main.cpp
+	<iostream>
+	"AI.h"
+
+1583807436 /home/pc/Documentos/SupplyDemand/SupplyDemand/include/AI.h
+
